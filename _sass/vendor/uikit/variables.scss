@@ -416,7 +416,7 @@ $sortable-placeholder-opacity: 0 !default;
 $sortable-empty-height: 50px !default;
 $spinner-size: 30px !default;
 $spinner-stroke-width: 1px !default;
-$spinner-radius: floor(calc(($spinner-size - $spinner-stroke-width) / 2)) !default;
+$spinner-radius: calc(($spinner-size - $spinner-stroke-width) / 2) !default;
 $spinner-circumference: round(2 * 3.141 * $spinner-radius) !default;
 $spinner-duration: 1.4s !default;
 $sticky-z-index: $global-z-index - 20 !default;
