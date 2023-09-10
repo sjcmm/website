@@ -510,7 +510,7 @@ header .uk-sticky-fixed {
   }
 
   .header-wrapper {
-    height: calc(100% - #{$navbar-nav-item-height * 2});
+    height: (100% - #{$navbar-nav-item-height * 2});
   }
 
   .height-large {

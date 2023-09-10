@@ -98,7 +98,7 @@ $form-range-track-focus-background: darken($global-muted-background, 15%) !defau
 .uk-range::-webkit-slider-thumb {
     /* 1 */
     -webkit-appearance: none;
-    margin-top: floor(calc($form-range-thumb-height / 2) * -1);
+    margin-top: floor(($form-range-thumb-height / 2) * -1);
     /* 2 */
     height: $form-range-thumb-height;
     width: $form-range-thumb-height;

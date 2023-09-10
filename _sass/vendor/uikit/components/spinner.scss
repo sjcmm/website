@@ -67,7 +67,7 @@ $spinner-duration: 1.4s !default;
     }
 
     50% {
-        stroke-dashoffset: calc($spinner-circumference / 4);
+        stroke-dashoffset: ($spinner-circumference / 4);
         transform: rotate(135deg);
     }
 
