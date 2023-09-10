@@ -26,3 +26,7 @@ You can listen to the mass setting on Apple Music or Spotify:
 
 - [Mass of Renewal \(Apple Music\)](https://music.apple.com/ca/album/choose-christ-2020-mass-of-renewal/1485647315)
 - [Mass of Renewal \(Spotify\)](https://open.spotify.com/album/71iw9ntAdzULMMCef7U7V6)
+
+There is also a YouTube Playlist of the Mass Setting:
+
+- [Mass of Renewal \(YouTube\)](https://www.youtube.com/playlist?list=PLfQebkBZFuCuGGmqAnKxDXl0wAEwIIUkO)
