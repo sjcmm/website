@@ -1,0 +1,45 @@
+# Page sidebar widgets
+page:
+  - widget: recent
+    title: RECENT ARTICLES
+    count: 8
+
+  - widget: categories
+    title: CATEGORIES
+    count: 5
+
+  - widget: authors
+    title: CONTRIBUTORS
+    count: 5
+    
+# Footer sidebar widgets
+footer:
+ # - widget: recent
+ #   title: RECENT POSTS
+ #   count: 4
+ # 
+ # - widget: links
+ #   title: ABOUT
+ #   links:
+ #     - title: "About Us"
+ #       url: /#/
+ #     - title: "Our Story"
+ #       url: /#/
+ #     - title: "This Week"
+ #       url: /#/
+ #     - title: "Terms"
+ #       url: /#/
+ #     - title: "Contact"
+ #       url: /contact/
+
+ # - widget: categories
+ #   title: CATEGORIES
+ #   count: 5
+
+ # - widget: authors
+ #   title: CONTRIBUTORS
+ #   count: 5
+
+  - widget: about
+    content: St. Joseph's College is a rich mosaic of students, residents, parishioners, faculty, staff and Board members on a journey of transformation. Rooted in faith, we are a sacred space open to all, where dialogue, learning and worship unify our community.
+    copyright: true

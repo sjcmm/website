@@ -1,0 +1,30 @@
+# Navbar menu navigation links
+left:
+
+center:
+  - title: Home
+    url: /
+
+  - title: All Posts
+    url: /blog/
+
+  - title: News
+    url: /category/news/
+
+  - title: Music Selections
+    url: /category/music-selections/
+
+  # - title: Pages
+  #   dropdown:
+  #     - title: Blog
+  #       url: /blog/
+  #     - title: Contact
+  #       url: /contact/
+  #     - title: Sidebar Left
+  #       url: /sidebar-left/
+  #     - title: Sidebar Right
+  #       url: /sidebar-right/
+  #     - title: 404
+  #       url: /404/
+
+right:
