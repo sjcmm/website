@@ -2,7 +2,7 @@
 title: Mass Setting 
 subtitle: Changes to the 11am Mass
 categories: [news]
-tag: [this-week]
+tag: [this-week, announcements]
 author: mark
 ---
 

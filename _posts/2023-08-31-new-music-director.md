@@ -2,7 +2,7 @@
 title: 11am Mass Music Director
 subtitle: Changes to the 11am Mass
 categories: [news]
-tag: [last-week]
+tag: [announcements]
 author: mark
 ---
 
