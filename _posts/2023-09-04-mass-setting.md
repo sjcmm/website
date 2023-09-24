@@ -19,6 +19,7 @@ You can find the Mass Setting in Glory & Praise 3 (G&P3).
 - **Gloria – 93 (G&P3)**
 - **Gospel Acclamation – 94 (G&P3)**
 - **Holy – 96 (G&P3)**
+- **Mystery of Faith / We Proclaim Your Death – 97 (G&P3)**
 - **Amen – 100 (G&P3)**
 - **Lamb of God – 101 (G&P3)**
 
