@@ -8,7 +8,7 @@ layout: full
 
 {% include section-this-week.html title="This Week" %}
 
-{% include section-previous-weeks.html title="Last Week" limit="4" more="More Articles" %}
+{% include section-previous-weeks.html title="Previous Weeks" limit="4" more="More Articles" %}
 
 <!-- 
 {% include section-authors.html title="Our Contributors" %}
