@@ -8,7 +8,7 @@ author: mark
 
 ## Music Selections
 
-- ENTRANCE: **O Come, O Come Emmanuel**
+- ENTRANCE: **228 – O Come, O Come Emmanuel**
 - PSALM: **Spirit & Psalm**
 - GIFTS: **645 – Eye Has Not Seen**
 - COMMUNION: **493 – I Am the Bread of Life**
