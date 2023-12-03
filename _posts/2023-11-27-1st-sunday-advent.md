@@ -2,7 +2,7 @@
 title: December 3rd 
 subtitle: 1st Sunday of Advent
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
