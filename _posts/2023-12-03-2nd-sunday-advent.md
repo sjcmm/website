@@ -2,7 +2,7 @@
 title: December 10th 
 subtitle: 2nd Sunday of Advent
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 

@@ -2,7 +2,7 @@
 title: December 17th 
 subtitle: 3nd Sunday of Advent
 categories: [music-selections]
-tag: [next-week]
+tag: [this-week]
 author: mark
 ---
 
@@ -11,7 +11,7 @@ author: mark
 - ENTRANCE: **O Come Devine Messiah**
 - PSALM: **Spirit & Psalm – My soul rejoices in my God**
 - GIFTS: **230 – Ready the Way**
-- COMMUNION: **477 – See Us Lord About Your Altar**
+- COMMUNION: **498 – One Bread, One Body**
 - DISMISSAL: **228 – O Come, O Come Emmanuel**
 
 ## Mass Setting
