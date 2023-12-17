@@ -2,7 +2,7 @@
 title: December 31st 
 subtitle: Feast of the Holy Family
 categories: [music-selections]
-tag: [this-week]
+tag: [next-week]
 author: mark
 ---
 
