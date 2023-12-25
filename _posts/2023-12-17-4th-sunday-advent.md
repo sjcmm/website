@@ -2,7 +2,7 @@
 title: December 24th 
 subtitle: 4th Sunday of Advent
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 

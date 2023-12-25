@@ -1,15 +1,15 @@
 ---
 title: December 31st 
-subtitle: Feast of the Holy Family
+subtitle: The Holy Family of Jesus, Mary and Joseph
 categories: [music-selections]
-tag: [next-week]
+tag: [this-week]
 author: mark
 ---
 
 ## Music Selections
 
 - ENTRANCE: **243 – God Rest You Merry, Gentlemen**
-- PSALM: **Spirit & Psalm – The Lord remembers his covenant for ever**
+- PSALM: **Spirit & Psalm – The Lord Remembers His Covenant For Ever**
 - GIFTS: **238 – Away in a Manger**
 - COMMUNION: **511 – Taste and See**
 - DISMISSAL: **242 – Go, Tell It on the Mountain**
