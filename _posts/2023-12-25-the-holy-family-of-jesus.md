@@ -12,7 +12,7 @@ author: mark
 - PSALM: **Spirit & Psalm – The Lord Remembers His Covenant For Ever**
 - GIFTS: **238 – Away in a Manger**
 - COMMUNION: **511 – Taste and See**
-- DISMISSAL: **242 – Go, Tell It on the Mountain**
+- DISMISSAL: **236 – Angels We Have Heard on High**
 
 ## Mass Setting
 
