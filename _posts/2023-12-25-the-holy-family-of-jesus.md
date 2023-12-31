@@ -10,7 +10,7 @@ author: mark
 
 - ENTRANCE: **243 – God Rest You Merry, Gentlemen**
 - PSALM: **Spirit & Psalm – The Lord Remembers His Covenant For Ever**
-- GIFTS: **238 – Away in a Manger**
+- GIFTS: **244 – O Little Town of Bethlehem**
 - COMMUNION: **511 – Taste and See**
 - DISMISSAL: **236 – Angels We Have Heard on High**
 
