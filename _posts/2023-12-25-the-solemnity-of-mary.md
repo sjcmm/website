@@ -8,7 +8,7 @@ author: mark
 
 ## Music Selections
 
-- ENTRANCE: **221 – The First Noel**
+- ENTRANCE: **245 – Hark! the Hearld Angels Sing**
 - PSALM: **Spirit & Psalm – May God Bless Us In His Mercy**
 - GIFTS: **372 – Hail Mary: Gentle Woman**
 - COMMUNION: **498 – One Bread, One Body**

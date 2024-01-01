@@ -2,7 +2,7 @@
 title: December 31st 
 subtitle: The Holy Family of Jesus, Mary and Joseph
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
