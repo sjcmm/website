@@ -16,6 +16,6 @@ author: mark
 
 ## Mass Setting
 
-- **92, 93, 94, 96, 98, 100, 101 – Mass of Renewal**
+- **92, 93, 94, 96, 97, 100, 101 – Mass of Renewal**
 
 For more information and links, see _**[the Mass Setting page](/mass-setting/)**_.
