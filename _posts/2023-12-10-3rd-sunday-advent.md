@@ -2,7 +2,7 @@
 title: December 17th 
 subtitle: 3nd Sunday of Advent
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [last-month]
 author: mark
 ---
 

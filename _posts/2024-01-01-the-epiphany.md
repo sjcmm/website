@@ -10,7 +10,7 @@ author: mark
 
 - ENTRANCE: **255 – We Three Kings**
 - PSALM: **Spirit & Psalm – Lord, Every Nation Will Adore You**
-- GIFTS: **259 – The First Noel**
+- GIFTS: **256 – What Child is This**
 - COMMUNION: **502 – Seed, Scattered and Sown**
 - DISMISSAL: **242 – Go, Tell It on the Mountain**
 
