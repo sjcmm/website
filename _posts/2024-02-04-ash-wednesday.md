@@ -1,17 +1,16 @@
 ---
-title: February 4th 
-subtitle: Fifth Sunday in Ordinary Time
+title: February 14th 
+subtitle: Ash Wednesday
 categories: [music-selections]
-tag: [this-week]
+tag: [next-week]
 author: mark
 ---
 
 ## Music Selections
 
 - ENTRANCE: **465 – Gather Your People**
-- PSALM: **Spirit & Psalm – Praise the Lord, who heals the broken-hearted**
-- GIFTS: **759 – Blest Are They**
-- COMMUNION: **493 – I Am the Bread of Life**
+- PSALM: **Spirit & Psalm – Be merciful, be merciful, O Lord, for we have sinned**
+– ASHES: **260 – Ashes to Ashes**
 - DISMISSAL: **739 – Sing a New Song**
 
 ## Mass Setting
