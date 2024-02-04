@@ -2,7 +2,7 @@
 title: February 14th 
 subtitle: Ash Wednesday
 categories: [music-selections]
-tag: [next-week]
+tag: [this-week]
 author: mark
 ---
 
@@ -10,8 +10,10 @@ author: mark
 
 - ENTRANCE: **465 – Gather Your People**
 - PSALM: **Spirit & Psalm – Be merciful, be merciful, O Lord, for we have sinned**
-– ASHES: **260 – Ashes to Ashes**
-- DISMISSAL: **739 – Sing a New Song**
+– ASHES: **261 – Ashes**
+- GIFTS: **767 – Isaiah 49**
+- COMMUNION: **CBW 602 – Eat This Bread**
+- DISMISSAL: **275 – With the Lord**
 
 ## Mass Setting
 
