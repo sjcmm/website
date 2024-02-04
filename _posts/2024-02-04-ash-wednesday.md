@@ -10,7 +10,7 @@ author: mark
 
 - ENTRANCE: **465 – Gather Your People**
 - PSALM: **Spirit & Psalm – Be merciful, be merciful, O Lord, for we have sinned**
-– ASHES: **261 – Ashes**
+- ASHES: **261 – Ashes**
 - GIFTS: **767 – Isaiah 49**
 - COMMUNION: **CBW 602 – Eat This Bread**
 - DISMISSAL: **275 – With the Lord**
