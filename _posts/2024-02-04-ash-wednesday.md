@@ -1,6 +1,6 @@
 ---
-title: February 14th 
-subtitle: Ash Wednesday
+title: Ash Wednesday 
+subtitle: February 14th
 categories: [music-selections]
 tag: [this-week]
 author: mark
