@@ -2,7 +2,7 @@
 title: Ash Wednesday 
 subtitle: February 14th
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
