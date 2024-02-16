@@ -8,11 +8,11 @@ author: mark
 
 ## Music Selections
 
-- ENTRANCE: **277 – Lord, Who Throughout These Forty Days**
+- ENTRANCE: **279 – Seek the Lord**
 - PSALM: **Spirit & Psalm – Your ways, O Lord, are Love and Truth**
 - GIFTS: **265 – Gracious God**
 - COMMUNION: **502 – Seed, Scattered and Sown**
-- DISMISSAL: **279 – Seek the Lord**
+- DISMISSAL: **278 – Somebody’s Knockin’ at Your Door**
 
 ## Mass Setting
 
