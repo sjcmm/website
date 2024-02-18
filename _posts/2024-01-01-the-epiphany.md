@@ -2,7 +2,7 @@
 title: January 7th 
 subtitle: The Epiphany of the Lord
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [last-month]
 author: mark
 ---
 

@@ -2,7 +2,7 @@
 title: January 1st 
 subtitle: The Solemnity of Mary, the Holy Mother of God
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [last-month]
 author: mark
 ---
 

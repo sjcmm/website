@@ -1,17 +1,17 @@
 ---
-title: First Sunday of Lent
-subtitle: February 18th 
+title: Thirst Sunday of Lent
+subtitle: March 3rd 
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [this-week]
 author: mark
 ---
 
 ## Music Selections
 
 - ENTRANCE: **279 – Seek the Lord**
-- PSALM: **Spirit & Psalm – Your ways, O Lord, are Love and Truth**
-- GIFTS: **265 – Gracious God**
-- COMMUNION: **502 – Seed, Scattered and Sown**
+- PSALM: **Spirit & Psalm – Lord You Have the Words of Everlasting Life**
+- GIFTS: **276 – Save Your People**
+- COMMUNION: **498 – One Bread, One Body**
 - DISMISSAL: **278 – Somebody’s Knockin’ at Your Door**
 
 ## Mass Setting
