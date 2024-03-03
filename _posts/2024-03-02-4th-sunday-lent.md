@@ -11,7 +11,7 @@ author: mark
 - ENTRANCE: **279 – Seek the Lord**
 - PSALM: **Spirit & Psalm – Let my tongue be silenced, if I ever forget you**
 - GIFTS: **265 – Gracious God**
-- COMMUNION: **The Table of the Lord**
+- COMMUNION: **498 – One Bread, One Body**
 - DISMISSAL: **275 – With the Lord**
 
 ## Mass Setting
