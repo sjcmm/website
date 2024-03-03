@@ -1,5 +1,5 @@
 ---
-title: Thirst Sunday of Lent
+title: Third Sunday of Lent
 subtitle: March 3rd 
 categories: [music-selections]
 tag: [previous-weeks]
