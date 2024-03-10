@@ -8,6 +8,8 @@ layout: full
 
 {% include section-this-week.html title="This Week" %}
 
+{% include section-upcoming-weeks.html title="Upcoming Weeks" %}
+
 {% include section-previous-weeks.html title="Previous Weeks" limit="4" more="More Articles" %}
 
 <!-- 
