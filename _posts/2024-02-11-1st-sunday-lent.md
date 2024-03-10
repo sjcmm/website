@@ -2,7 +2,7 @@
 title: First Sunday of Lent
 subtitle: February 18th 
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [last-month]
 author: mark
 ---
 

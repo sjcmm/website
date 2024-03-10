@@ -1,5 +1,5 @@
 ---
-title: Good Friday
+title: Palm Sunday
 subtitle: March 24th 
 categories: [music-selections]
 tag: [this-week]

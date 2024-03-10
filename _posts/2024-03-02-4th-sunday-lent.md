@@ -2,7 +2,7 @@
 title: Fourth Sunday of Lent
 subtitle: March 10th 
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
