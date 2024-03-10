@@ -10,6 +10,7 @@ author: mark
 
 - ENTRANCE: **–**
 - PSALM: **Spirit & Psalm – Father, into your hands I commend my spirit**
+- GOSPEL ACC: **380 CBW III – Jesus, Remember Me**
 - ADORATION: **298 – Behold the Wood**
 - ADORATION: **300 – Were You There**
 - COMMUNION: **Remembrance of You**
