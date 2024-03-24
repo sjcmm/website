@@ -2,7 +2,7 @@
 title: Easter Sunday
 subtitle: March 31st 
 categories: [music-selections]
-tag: [upcoming-weeks]
+tag: [this-week]
 author: mark
 ---
 
