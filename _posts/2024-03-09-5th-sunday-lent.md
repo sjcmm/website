@@ -2,7 +2,7 @@
 title: Fifth Sunday of Lent
 subtitle: March 17th 
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 

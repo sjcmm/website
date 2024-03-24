@@ -2,7 +2,7 @@
 title: Second Sunday of Lent
 subtitle: February 25th 
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [last-month]
 author: mark
 ---
 

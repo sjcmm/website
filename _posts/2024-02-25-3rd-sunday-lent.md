@@ -2,7 +2,7 @@
 title: Third Sunday of Lent
 subtitle: March 3rd 
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [last-month]
 author: mark
 ---
 
