@@ -2,7 +2,7 @@
 title: Good Friday
 subtitle: March 29th 
 categories: [music-selections]
-tag: [upcoming-weeks]
+tag: [this-week]
 author: mark
 ---
 

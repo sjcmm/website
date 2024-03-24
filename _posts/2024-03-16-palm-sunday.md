@@ -2,7 +2,7 @@
 title: Palm Sunday
 subtitle: March 24th 
 categories: [music-selections]
-tag: [upcoming-weeks]
+tag: [previous-weeks]
 author: mark
 ---
 
