@@ -2,7 +2,7 @@
 title: Easter Sunday
 subtitle: March 31st 
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
@@ -10,6 +10,7 @@ author: mark
 
 - ENTRANCE: **333 – Let Heaven Rejoice**
 - PSALM: **Spirit & Psalm – This is the day the Lord has made; let us rejoice and be glad**
+- SPRINKLING RITE: **404 – River of Glory**
 - GIFTS: **393 CBW III – Something Which Is Known**
 - COMMUNION: **511 – Taste and See**
 - DISMISSAL: **329 I Am the Resurrection**
