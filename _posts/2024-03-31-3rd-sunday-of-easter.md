@@ -1,18 +1,17 @@
 ---
-title: Easter Sunday
-subtitle: March 31st 
+title: 3rd Sunday of Easter
+subtitle: April 14th 
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [next-week]
 author: mark
 ---
 
 ## Music Selections
 
-- ENTRANCE: **333 – Let Heaven Rejoice**
-- PSALM: **Spirit & Psalm – This is the day the Lord has made; let us rejoice and be glad**
-- SPRINKLING RITE: **404 – River of Glory**
+- ENTRANCE: **722 – Sing to the Mountains**
+- PSALM: **Spirit & Psalm – Lord, let your face shine on us, shine on us**
 - GIFTS: **393 CBW III – Something Which Is Known**
-- COMMUNION: **511 – Taste and See**
+- COMMUNION: **502 – Seed, Scattered and Sown**
 - DISMISSAL: **329 – I Am the Resurrection**
 
 ## Mass Setting

@@ -8,7 +8,7 @@ author: mark
 
 ## Music Selections
 
-- ENTRANCE: **383 CBW III – Alleluia, Give Thanks to the Risen Lord**
+- ENTRANCE: **330 – Jesus Christ Is Risen Today**
 - PSALM: **Spirit & Psalm – Give thanks to the LORD, for he is good, his love is everlasting.**
 - GIFTS: **328 – Now the Green Blade Rises**
 - COMMUNION: **482 – Bread of Life**
