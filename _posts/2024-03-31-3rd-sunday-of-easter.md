@@ -2,7 +2,7 @@
 title: 3rd Sunday of Easter
 subtitle: April 14th 
 categories: [music-selections]
-tag: [next-week]
+tag: [upcoming-weeks]
 author: mark
 ---
 
