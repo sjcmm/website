@@ -8,11 +8,11 @@ author: mark
 
 ## Music Selections
 
-- ENTRANCE: **330 – Jesus Christ Is Risen Today**
+- ENTRANCE: **778 – Morning Has Broken**
 - PSALM: **Spirit & Psalm – Give thanks to the LORD, for he is good, his love is everlasting.**
 - GIFTS: **328 – Now the Green Blade Rises**
 - COMMUNION: **482 – Bread of Life**
-- DISMISSAL: **326 – This Is the Day**
+- DISMISSAL: **330 – Jesus Christ Is Risen Today**
 
 ## Mass Setting
 
