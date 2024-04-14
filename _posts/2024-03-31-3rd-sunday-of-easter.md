@@ -2,7 +2,7 @@
 title: 3rd Sunday of Easter
 subtitle: April 14th 
 categories: [music-selections]
-tag: [upcoming-weeks]
+tag: [previous-weeks]
 author: mark
 ---
 
@@ -10,7 +10,7 @@ author: mark
 
 - ENTRANCE: **722 – Sing to the Mountains**
 - PSALM: **Spirit & Psalm – Lord, let your face shine on us, shine on us**
-- GIFTS: **393 CBW III – Something Which Is Known**
+- GIFTS: **633 – Be Thou My Vision**
 - COMMUNION: **502 – Seed, Scattered and Sown**
 - DISMISSAL: **329 – I Am the Resurrection**
 

@@ -1,18 +1,18 @@
 ---
-title: 2nd Sunday of Easter
-subtitle: April 7th 
+title: 5th Sunday of Easter
+subtitle: April 28th 
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [upcoming-weeks]
 author: mark
 ---
 
 ## Music Selections
 
 - ENTRANCE: **778 – Morning Has Broken**
-- PSALM: **Spirit & Psalm – Give thanks to the LORD, for he is good, his love is everlasting.**
+- PSALM: **Spirit & Psalm – I will praise you, Lord, in the assembly of your people.**
 - GIFTS: **328 – Now the Green Blade Rises**
-- COMMUNION: **482 – Bread of Life**
-- DISMISSAL: **330 – Jesus Christ Is Risen Today**
+- COMMUNION: **The Table of the Lord**
+- DISMISSAL: **612 – Seek Ye First**
 
 ## Mass Setting
 
