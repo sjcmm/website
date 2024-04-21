@@ -2,7 +2,7 @@
 title: 5th Sunday of Easter
 subtitle: April 28th 
 categories: [music-selections]
-tag: [upcoming-weeks]
+tag: [this-week]
 author: mark
 ---
 
@@ -10,9 +10,9 @@ author: mark
 
 - ENTRANCE: **778 – Morning Has Broken**
 - PSALM: **Spirit & Psalm – I will praise you, Lord, in the assembly of your people.**
-- GIFTS: **328 – Now the Green Blade Rises**
-- COMMUNION: **The Table of the Lord**
-- DISMISSAL: **612 – Seek Ye First**
+- GIFTS: **540 – I Am the Vine**
+- COMMUNION: **505 – Eat This Bread**
+- DISMISSAL: **605 – Blest Be the Lord**
 
 ## Mass Setting
 

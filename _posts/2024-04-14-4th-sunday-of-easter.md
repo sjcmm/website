@@ -2,7 +2,7 @@
 title: 4th Sunday of Easter
 subtitle: April 21st 
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
