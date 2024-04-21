@@ -8,7 +8,7 @@ author: mark
 
 ## Music Selections
 
-- ENTRANCE: **329 – I Am the Resurrection**
+- ENTRANCE: **544 – They’ll Know We Are Christians**
 - PSALM: **Spirit & Psalm – The Lord has revealed to the nations his saving pow’r**
 - GIFTS: **328 – Now the Green Blade Rises**
 - COMMUNION: **The Table of the Lord**
