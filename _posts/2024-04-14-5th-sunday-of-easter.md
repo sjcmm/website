@@ -2,7 +2,7 @@
 title: 5th Sunday of Easter
 subtitle: April 28th 
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 

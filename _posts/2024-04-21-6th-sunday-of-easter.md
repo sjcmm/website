@@ -2,7 +2,7 @@
 title: 6th Sunday of Easter
 subtitle: May 5th 
 categories: [music-selections]
-tag: [upcoming-weeks]
+tag: [this-week]
 author: mark
 ---
 
@@ -10,9 +10,11 @@ author: mark
 
 - ENTRANCE: **544 – They’ll Know We Are Christians**
 - PSALM: **Spirit & Psalm – The Lord has revealed to the nations his saving pow’r**
-- GIFTS: **328 – Now the Green Blade Rises**
+- GIFTS:
+  - **328 – Now the Green Blade Rises**
+  - **596 – Dwelling Place**
 - COMMUNION: **The Table of the Lord**
-- DISMISSAL: **612 – Seek Ye First**
+- DISMISSAL: **613 – Seek Ye First**
 
 ## Mass Setting
 
