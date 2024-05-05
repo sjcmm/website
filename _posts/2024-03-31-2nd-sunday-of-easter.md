@@ -2,7 +2,7 @@
 title: 2nd Sunday of Easter
 subtitle: April 7th 
 categories: [music-selections]
-tag: [previous-weeks]
+tag: [last-month]
 author: mark
 ---
 
