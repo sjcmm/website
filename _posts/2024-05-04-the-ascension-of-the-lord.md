@@ -8,11 +8,11 @@ author: mark
 
 ## Music Selections
 
-- ENTRANCE:
+- ENTRANCE: **329 – I Am The Resurrection**
 - PSALM: **Spirit & Psalm – God mounts his throne to shouts of joy: a blare of trumpets for the Lord**
-- GIFTS:
-- COMMUNION:
-- DISMISSAL:
+- GIFTS: **328 – Now the Green Blade Rises**
+- COMMUNION: **482 – Bread of Life**
+- DISMISSAL: **340 – Peace, My Friends**
 
 ## Mass Setting
 

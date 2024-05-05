@@ -11,7 +11,7 @@ author: mark
 - ENTRANCE:
 - PSALM: **Spirit & Psalm – Lord, send out your Spirit, and renew the face of the earth**
 - GIFTS:
-- COMMUNION:
+- COMMUNION: **505 – Eat This Bread**
 - DISMISSAL:
 
 ## Mass Setting
