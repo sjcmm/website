@@ -2,7 +2,7 @@
 title: The Ascension of the Lord
 subtitle: May 12th 
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
