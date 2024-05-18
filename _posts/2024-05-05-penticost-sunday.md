@@ -12,7 +12,7 @@ author: mark
 - PSALM: **Spirit & Psalm – Lord, send out your Spirit, and renew the face of the earth**
 - GIFTS: **343 – Holy Spirit, Come to Me**
 - COMMUNION: **505 – Eat This Bread**
-- DISMISSAL:**348 – By the Waking of Our Hearts**
+- DISMISSAL:**554 – Go Make a Difference**
 
 ## Mass Setting
 
