@@ -2,17 +2,17 @@
 title: The Most Holy Trinity
 subtitle: May 26th 
 categories: [music-selections]
-tag: [upcoming-weeks]
+tag: [this-week]
 author: mark
 ---
 
 ## Music Selections
 
-- ENTRANCE:
+- ENTRANCE:**357 – O God, Almighty Father**
 - PSALM: **Blessed the people the Lord has chosen to be his own**
-- GIFTS:
-- COMMUNION:
-- DISMISSAL:
+- GIFTS: **596 – Dwelling Place**
+- COMMUNION: **765 – Like a Shepherd**
+- DISMISSAL: 
 
 ## Mass Setting
 

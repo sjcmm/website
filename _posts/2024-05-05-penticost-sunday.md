@@ -2,7 +2,7 @@
 title: Pentecost Sunday
 subtitle: May 19th 
 categories: [music-selections]
-tag: [this-week]
+tag: [previous-weeks]
 author: mark
 ---
 
